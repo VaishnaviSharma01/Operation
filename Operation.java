@@ -1,7 +1,7 @@
 public class Operation {
     public static void main(String args[]) {
-        int a = Integer.parseInt(args[1]);
-        int b = Integer.parseInt(args[2]);
+        int a = 10;
+        int b = 5;
 
         System.out.println("Addition: " + (a + b));
         System.out.println("Subtraction: " + (a - b));
